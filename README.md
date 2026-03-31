@@ -2,7 +2,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![ReportLab](https://img.shields.io/badge/reportlab-4.0+-green.svg)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 Script em Python que gera um currículo profissional em formato PDF de forma automatizada, utilizando a biblioteca **ReportLab**. Ideal para quem deseja manter uma versão sempre atualizada do currículo sem precisar abrir editores gráficos.
 
